@@ -1,0 +1,138 @@
+{
+    "risk-score": [
+        {
+            "0": {
+                "nigerian stock": 18,
+                "foreign stock": 4,
+                "tech stock": 2,
+                "emergency stock": 7,
+                "nigerian bonds": 35,
+                "foreign bonds": 15,
+                "commodities": 7,
+                "real estate": 12,
+                "t-bills": 0,
+                "alternative": 0
+            },
+            "1": {
+                "nigerian stock": 20,
+                "foreign stock": 5,
+                "tech stock": 3,
+                "emergency stock": 7,
+                "nigerian bonds": 35,
+                "foreign bonds": 6,
+                "commodities": 12,
+                "real estate": 12,
+                "t-bills": 0,
+                "alternative": 0
+            },
+            "2": {
+                "nigerian stock": 23,
+                "foreign stock": 5,
+                "tech stock": 4,
+                "emergency stock": 7,
+                "nigerian bonds": 35,
+                "foreign bonds": 14,
+                "commodities": 12,
+                "real estate": 0,
+                "t-bills": 0,
+                "alternative": 0
+            },
+            "3": {
+                "nigerian stock": 26,
+                "foreign stock": 6,
+                "tech stock": 4,
+                "emergency stock": 7,
+                "nigerian bonds": 35,
+                "foreign bonds": 10,
+                "commodities": 12,
+                "real estate": 0,
+                "t-bills": 0,
+                "alternative": 0
+            },
+            "4": {
+                "nigerian stock": 29,
+                "foreign stock": 7,
+                "tech stock": 5,
+                "emergency stock": 6,
+                "nigerian bonds": 35,
+                "foreign bonds": 6,
+                "commodities": 12,
+                "real estate": 0,
+                "t-bills": 0,
+                "alternative": 0
+            },
+            "5": {
+                "nigerian stock": 31,
+                "foreign stock": 8,
+                "tech stock": 6,
+                "emergency stock": 5,
+                "nigerian bonds": 35,
+                "foreign bonds": 3,
+                "commodities": 12,
+                "real estate": 0,
+                "t-bills": 0,
+                "alternative": 0
+            },
+            "6": {
+                "nigerian stock": 35,
+                "foreign stock": 8,
+                "tech stock": 7,
+                "emergency stock": 3,
+                "nigerian bonds": 35,
+                "foreign bonds": 12,
+                "commodities": 0,
+                "real estate": 0,
+                "t-bills": 0,
+                "alternative": 0
+            },
+            "7": {
+                "nigerian stock": 45,
+                "foreign stock": 13,
+                "tech stock": 12,
+                "emergency stock": 7,
+                "nigerian bonds": 23,
+                "foreign bonds": 0,
+                "commodities": 0,
+                "real estate": 0,
+                "t-bills": 0,
+                "alternative": 0
+            },
+            "8": {
+                "nigerian stock": 45,
+                "foreign stock": 15,
+                "tech stock": 15,
+                "emergency stock": 9,
+                "nigerian bonds": 16,
+                "foreign bonds": 0,
+                "commodities": 0,
+                "real estate": 0,
+                "t-bills": 0,
+                "alternative": 0
+            },
+            "9": {
+                "nigerian stock": 45,
+                "foreign stock": 18,
+                "tech stock": 17,
+                "emergency stock": 11,
+                "nigerian bonds": 9,
+                "foreign bonds": 0,
+                "commodities": 0,
+                "real estate": 0,
+                "t-bills": 0,
+                "alternative": 0
+            },
+            "10": {
+                "nigerian stock": 45,
+                "foreign stock": 20,
+                "tech stock": 19,
+                "emergency stock": 14,
+                "nigerian bonds": 2,
+                "foreign bonds": 0,
+                "commodities": 0,
+                "real estate": 0,
+                "t-bills": 0,
+                "alternative": 0
+            }
+        }
+    ]
+}
